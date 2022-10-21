@@ -14,7 +14,7 @@
 	funcao inicio()
 	
 	{
-	    escreva (" qual a frase a ser criptografada? ")
+	    escreva (" Qual a frase a ser criptografada? ")
          leia(frase)
 
          escreva (" qual a chave a ser desejada? ")
